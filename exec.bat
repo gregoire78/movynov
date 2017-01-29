@@ -1,0 +1,1 @@
+docker exec -it php7_web_1 php /var/www/html/local.dev/movynov/malade.php
