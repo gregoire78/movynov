@@ -1,0 +1,1 @@
+docker exec -it php7_cassandra_1 cqlsh -u cassandra -p cassandra
